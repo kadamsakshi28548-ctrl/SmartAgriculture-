@@ -1,0 +1,11 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.env
+.vscode/
+.pytest_cache/
+*.log
+
+agriculture_model.pkl
+irrigation_model.pkl
